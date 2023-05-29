@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hw5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Object.cpp
+  PQueueMH.cpp
+  Node.cpp
+  PQueueSLL.cpp
+  main.cpp
+  PQueue_UI.cpp
+  Generating Code...
+  HW5_PriorityQueue.vcxproj -> D:\C++codes\repos\DSA\Homework\HW5_PriorityQueue\Debug\HW5_PriorityQueue.exe

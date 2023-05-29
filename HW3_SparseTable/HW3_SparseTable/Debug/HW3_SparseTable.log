@@ -1,0 +1,10 @@
+﻿  FileHandle.cpp
+D:\C++codes\repos\DSA\Homework\HW3_SparseTable\HW3_SparseTable\FileHandle.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+D:\C++codes\repos\DSA\Homework\HW3_SparseTable\HW3_SparseTable\FileHandle.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+  Helper.cpp
+  main.cpp
+  TableHandle.cpp
+D:\C++codes\repos\DSA\Homework\HW3_SparseTable\HW3_SparseTable\TableHandle.cpp(64,20): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+D:\C++codes\repos\DSA\Homework\HW3_SparseTable\HW3_SparseTable\TableHandle.cpp(74): warning C4715: 'query': not all control paths return a value
+  HW3_SparseTable.vcxproj -> D:\C++codes\repos\DSA\Homework\HW3_SparseTable\Debug\HW3_SparseTable.exe

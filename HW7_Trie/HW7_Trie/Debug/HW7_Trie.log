@@ -1,0 +1,13 @@
+﻿  Trie.cpp
+D:\C++codes\repos\DSA\Homework\HW7_Trie\HW7_Trie\DataStructure\Trie.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+D:\C++codes\repos\DSA\Homework\HW7_Trie\HW7_Trie\DataStructure\Trie.cpp(109,23): warning C4018: '<': signed/unsigned mismatch
+  TrieNode.cpp
+  main.cpp
+D:\C++codes\repos\DSA\Homework\HW7_Trie\HW7_Trie\UserInterface\TrieUI.h(5,1): warning C4099: 'TrieUI': type name first seen using 'class' now seen using 'struct'
+D:\C++codes\repos\DSA\Homework\HW7_Trie\HW7_Trie\UserInterface\TrieUI.h(4): message : see declaration of 'TrieUI'
+  FileHandle.cpp
+  TrieUI.cpp
+D:\C++codes\repos\DSA\Homework\HW7_Trie\HW7_Trie\UserInterface\TrieUI.h(5,1): warning C4099: 'TrieUI': type name first seen using 'class' now seen using 'struct'
+D:\C++codes\repos\DSA\Homework\HW7_Trie\HW7_Trie\UserInterface\TrieUI.h(4): message : see declaration of 'TrieUI'
+  Generating Code...
+  HW7_Trie.vcxproj -> D:\C++codes\repos\DSA\Homework\HW7_Trie\Debug\HW7_Trie.exe

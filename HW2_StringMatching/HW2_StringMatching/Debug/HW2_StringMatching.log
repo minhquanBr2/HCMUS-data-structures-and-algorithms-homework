@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Matcher.cpp
+D:\C++codes\repos\DSA\Homework\HW2_StringMatching\HW2_StringMatching\Matcher.cpp(30,9): warning C4101: 'val': unreferenced local variable
+D:\C++codes\repos\DSA\Homework\HW2_StringMatching\HW2_StringMatching\Matcher.cpp(70,31): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\C++codes\repos\DSA\Homework\HW2_StringMatching\HW2_StringMatching\Matcher.cpp(71,31): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\C++codes\repos\DSA\Homework\HW2_StringMatching\HW2_StringMatching\Matcher.cpp(77,35): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Generating Code...
+  HW2_StringMatching.vcxproj -> D:\C++codes\repos\DSA\Homework\HW2_StringMatching\Debug\HW2_StringMatching.exe
